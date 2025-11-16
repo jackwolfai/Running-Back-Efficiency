@@ -19,13 +19,10 @@ Performance Tiers: Groups players by TD production to analyze Speed Score patter
 #### Output:
 The script generates 4 high-resolution PNG files:
 
-correlation_matrix.png
-
-scatter_analysis.png
-
-distribution_analysis.png
-
-performance_rankings.png
+- correlation_matrix.png
+- scatter_analysis.png
+- distribution_analysis.png
+- performance_rankings.png
 
 Plus a detailed statistical summary printed to console.
 Simply run the script in Cursor or any Python environment with the required libraries (pandas, matplotlib, seaborn, scipy, numpy) installed.
